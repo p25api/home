@@ -39,6 +39,46 @@
           }
         ]
       }
+    },
+    {
+      "group2": {
+        "group_id": 2,
+        "group_name": "Group02",
+        "items": [
+          {
+            "id": 5,
+            "name": "Export to cloud",
+            "description": "Seamless cloud storage empowering data accessibility",
+            "image_url": "",
+            "tooltip": "",
+            "active": 1
+          },
+          {
+            "id": 6,
+            "name": "Action 1",
+            "description": "Energise and empower igniting change for a brighter future",
+            "image_url": "",
+            "tooltip": "",
+            "active": 1
+          },
+          {
+            "id": 7,
+            "name": "Action 2",
+            "description": "Unearthing wonders unleash the power of discovery",
+            "image_url": "",
+            "tooltip": "",
+            "active": 1
+          },
+          {
+            "id": 8,
+            "name": "Action 3",
+            "description": "Unleashing insights the dynamic world of data flows",
+            "image_url": "",
+            "tooltip": "",
+            "active": 1
+          }
+        ]
+      }
     }
   ]
 }
