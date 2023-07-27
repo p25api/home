@@ -1,5 +1,5 @@
 {
-  "modules":{
+  "modules":[
     "group1":{
   "group_name": "Group01",
       "items":[
@@ -148,5 +148,5 @@
     }
       ]
     }
-  }
+]
 }
