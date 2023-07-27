@@ -1,156 +1,160 @@
 {
-  "modules":[
-   { "group1":{
-  "group_name": "Group01",
-      "items":[
-        {
-      "id": 1,
-      "name":"Discover",
-      "description":"Unearthing wonders unleash the power of discovery",
-      "image_url": "my-json-server.typicode.com/p25api/home/discover.svg",
-      "tooltip":"",
-      "active": 1
-    },
+  "modules": [
+    {
+      "group1": {
+        "group_name": "Group01",
+        "items": [
           {
-      "id": 2,
-      "name":"Deploy Apps",
-      "description": "Seamless integration unifying your digital ecosystem",
-      "image_url": "",
-      "tooltip":"",
-      "active": 1
-    },
-         {
-      "id": 3,
-      "name":"Data Flow",
-      "description": "Unleashing insights the dynamic world of data flows",
-      "image_url": "",
-      "tooltip":"",
-      "active": 1
-    },
-         {
-      "id": 4,
-      "name":"Anomalies Detection",
-      "description": "Uncovering irregularities unveiling hidden insights",
-      "image_url": "",
-      "tooltip":"",
-      "active": 1
-    }
-      ]
-    }
-   },
-    { "group2":{
-      "group_name": "Group02",
-      "items":[
-        {
-      "id": 5,
-      "name":"Export to cloud",
-      "description":"Seamless cloud storage empowering data accessibility",
-      "image_url": "",
-      "tooltip":"",
-      "active": 1
-    },
+            "id": 1,
+            "name": "Discover",
+            "description": "Unearthing wonders unleash the power of discovery",
+            "image_url": "my-json-server.typicode.com/p25api/home/discover.svg",
+            "tooltip": "",
+            "active": 1
+          },
           {
-      "id": 6,
-      "name":"Action 1",
-      "description": "Energise and empower igniting change for a brighter future",
-      "image_url": "",
-      "tooltip":"",
-      "active": 1
-    },
-         {
-      "id": 7,
-      "name":"Action 2",
-      "description": "Unearthing wonders unleash the power of discovery",
-      "image_url": "",
-      "tooltip":"",
-      "active": 1
-    },
-         {
-      "id": 8,
-      "name":"Action 3",
-      "description": "Unleashing insights the dynamic world of data flows",
-      "image_url": "",
-      "tooltip":"",
-      "active": 1
-    }
-      ]
-    }
-    },
-     { "group3":{
-      "group_name": "Other modules",
-      "items":[
-        {
-      "id": 9,
-      "name":"Observability",
-      "description":"Seamless cloud storage empowering data accessibility",
-      "image_url": "",
-      "tooltip":"You can locate Observability from the source where it gets created on topology map. More functions to be added here very soon.",
-      "active": 0
-    },
+            "id": 2,
+            "name": "Deploy Apps",
+            "description": "Seamless integration unifying your digital ecosystem",
+            "image_url": "",
+            "tooltip": "",
+            "active": 1
+          },
           {
-      "id": 10,
-      "name":"Infra",
-      "description": "Energise and empower igniting change for a brighter future",
-      "image_url": "",
-      "tooltip":"You can locate Infra from the source where it gets created on topology map. More functions to be added here very soon.",
-      "active": 0
-    },
-         {
-      "id": 11,
-      "name":"Network",
-      "description": "Unearthing wonders unleash the power of discovery",
-      "image_url": "",
-      "tooltip":"You can locate Network from the source where it gets created on topology map. More functions to be added here very soon.",
-      "active": 0
-    },
-         {
-      "id": 12,
-      "name":"Apps",
-      "description": "Unleashing insights the dynamic world of data flows",
-      "image_url": "",
-      "tooltip":"You can locate Apps from the source where it gets created on topology map. More functions to be added here very soon.",
-      "active": 0
-    }
-      ]
-    }
-     },
-    {  "group4":{
-      "group_name": "Coming soon",
-      "items":[
-        {
-      "id": 13,
-      "name":"Data catalog",
-      "description":"Seamless cloud storage empowering data accessibility",
-      "image_url": "",
-      "tooltip":"You can locate Data catalog from the source where it gets created on topology map. More functions to be added here very soon.",
-      "active": 0
-    },
+            "id": 3,
+            "name": "Data Flow",
+            "description": "Unleashing insights the dynamic world of data flows",
+            "image_url": "",
+            "tooltip": "",
+            "active": 1
+          },
           {
-      "id": 14,
-      "name":"Data source",
-      "description": "Energise and empower igniting change for a brighter future",
-      "image_url": "",
-      "tooltip":"You can locate Data source from the source where it gets created on topology map. More functions to be added here very soon.",
-      "active": 0
+            "id": 4,
+            "name": "Anomalies Detection",
+            "description": "Uncovering irregularities unveiling hidden insights",
+            "image_url": "",
+            "tooltip": "",
+            "active": 1
+          }
+        ]
+      }
     },
-         {
-      "id": 15,
-      "name":"Sensor",
-      "description": "Unearthing wonders unleash the power of discovery",
-      "image_url": "",
-      "tooltip":"You can locate Sensor from the source where it gets created on topology map. More functions to be added here very soon.",
-      "active": 0
+    {
+      "group2": {
+        "group_name": "Group02",
+        "items": [
+          {
+            "id": 5,
+            "name": "Export to cloud",
+            "description": "Seamless cloud storage empowering data accessibility",
+            "image_url": "",
+            "tooltip": "",
+            "active": 1
+          },
+          {
+            "id": 6,
+            "name": "Action 1",
+            "description": "Energise and empower igniting change for a brighter future",
+            "image_url": "",
+            "tooltip": "",
+            "active": 1
+          },
+          {
+            "id": 7,
+            "name": "Action 2",
+            "description": "Unearthing wonders unleash the power of discovery",
+            "image_url": "",
+            "tooltip": "",
+            "active": 1
+          },
+          {
+            "id": 8,
+            "name": "Action 3",
+            "description": "Unleashing insights the dynamic world of data flows",
+            "image_url": "",
+            "tooltip": "",
+            "active": 1
+          }
+        ]
+      }
     },
-         {
-      "id": 16,
-      "name":"Process metrics",
-      "description": "Unleashing insights the dynamic world of data flows",
-      "image_url": "",
-      "tooltip":"You can locate Process metrics from the source where it gets created on topology map. More functions to be added here very soon.",
-      "active": 0
+    {
+      "group3": {
+        "group_name": "Other modules",
+        "items": [
+          {
+            "id": 9,
+            "name": "Observability",
+            "description": "Seamless cloud storage empowering data accessibility",
+            "image_url": "",
+            "tooltip": "You can locate Observability from the source where it gets created on topology map. More functions to be added here very soon.",
+            "active": 0
+          },
+          {
+            "id": 10,
+            "name": "Infra",
+            "description": "Energise and empower igniting change for a brighter future",
+            "image_url": "",
+            "tooltip": "You can locate Infra from the source where it gets created on topology map. More functions to be added here very soon.",
+            "active": 0
+          },
+          {
+            "id": 11,
+            "name": "Network",
+            "description": "Unearthing wonders unleash the power of discovery",
+            "image_url": "",
+            "tooltip": "You can locate Network from the source where it gets created on topology map. More functions to be added here very soon.",
+            "active": 0
+          },
+          {
+            "id": 12,
+            "name": "Apps",
+            "description": "Unleashing insights the dynamic world of data flows",
+            "image_url": "",
+            "tooltip": "You can locate Apps from the source where it gets created on topology map. More functions to be added here very soon.",
+            "active": 0
+          }
+        ]
+      }
+    },
+    {
+      "group4": {
+        "group_name": "Coming soon",
+        "items": [
+          {
+            "id": 13,
+            "name": "Data catalog",
+            "description": "Seamless cloud storage empowering data accessibility",
+            "image_url": "",
+            "tooltip": "You can locate Data catalog from the source where it gets created on topology map. More functions to be added here very soon.",
+            "active": 0
+          },
+          {
+            "id": 14,
+            "name": "Data source",
+            "description": "Energise and empower igniting change for a brighter future",
+            "image_url": "",
+            "tooltip": "You can locate Data source from the source where it gets created on topology map. More functions to be added here very soon.",
+            "active": 0
+          },
+          {
+            "id": 15,
+            "name": "Sensor",
+            "description": "Unearthing wonders unleash the power of discovery",
+            "image_url": "",
+            "tooltip": "You can locate Sensor from the source where it gets created on topology map. More functions to be added here very soon.",
+            "active": 0
+          },
+          {
+            "id": 16,
+            "name": "Process metrics",
+            "description": "Unleashing insights the dynamic world of data flows",
+            "image_url": "",
+            "tooltip": "You can locate Process metrics from the source where it gets created on topology map. More functions to be added here very soon.",
+            "active": 0
+          }
+        ]
+      }
     }
-      ]
-    }
-    }
-]
+  ]
 }
