@@ -2,7 +2,7 @@
   "modules": [
     {
       "group_id": 1,
-      "group_name": "Group01",
+      "group_name": "Group 01",
       "items": [
         {
           "id": 1,
@@ -40,7 +40,7 @@
     },
     {
       "group_id": 2,
-      "group_name": "Group02",
+      "group_name": "Group 02",
       "items": [
         {
           "id": 5,
