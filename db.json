@@ -1,7 +1,6 @@
 {
   "modules": [
-    {
-      "group1": {
+     {
         "group_id": 1,
         "group_name": "Group01",
         "items": [
@@ -38,10 +37,8 @@
             "active": 1
           }
         ]
-      }
-    },
+      },
     {
-      "group2": {
         "group_id": 2,
         "group_name": "Group02",
         "items": [
@@ -78,9 +75,8 @@
             "active": 1
           }
         ]
-      }
-    }, {
-      "group3": {
+      }, 
+     {
         "group_id": 3,
         "group_name": "Other modules",
         "items": [
@@ -117,10 +113,8 @@
             "active": 0
           }
         ]
-      }
-    },
-    {
-      "group4": {
+      },
+     {
         "group_id": 4
         "group_name": "Coming soon",
         "items": [
@@ -158,6 +152,5 @@
           }
         ]
       }
-    }
   ]
 }
