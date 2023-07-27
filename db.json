@@ -8,7 +8,7 @@
           "id": 1,
           "name": "Discover",
           "description": "Unearthing wonders unleash the power of discovery",
-          "image_url": "https://my-json-server.typicode.com/p25api/home/discover.svg",
+          "image_url": "https://my-json-server.typicode.com/p25api/home/discover.json",
           "tooltip": "",
           "active": 1
         },
